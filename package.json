@@ -27,7 +27,7 @@
     "languages"
   ],
   "peerDependencies": {
-    "react": "^16.8.0"
+    "react": "^18.2.0"
   },
   "dependencies": {
     "@types/jest": "^25.1.4",
